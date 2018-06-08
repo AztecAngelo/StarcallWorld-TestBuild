@@ -1,0 +1,1104 @@
+﻿Log file open, 05/29/18 21:58:51
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Starcall_World
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-518433637) SRandInit(-518433637).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.404738
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  1.073s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am Phenix (192.168.1.12:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: D:/Games/Epic Games/Unreal Engine Versions/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.05.30-01.58.52:516][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.30-01.58.52:516][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.05.30-01.58.52:524][  0]LogInit: Computer: PHENIX
+[2018.05.30-01.58.52:524][  0]LogInit: User: Angelo
+[2018.05.30-01.58.52:524][  0]LogInit: CPU Page size=4096, Cores=6
+[2018.05.30-01.58.52:524][  0]LogInit: High frequency timer resolution =3.287337 MHz
+[2018.05.30-01.58.52:524][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.05.30-01.58.52:524][  0]LogMemory: Platform Memory Stats for Windows
+[2018.05.30-01.58.52:524][  0]LogMemory: Process Physical Memory: 273.71 MB used, 273.71 MB peak
+[2018.05.30-01.58.52:524][  0]LogMemory: Process Virtual Memory: 263.52 MB used, 263.52 MB peak
+[2018.05.30-01.58.52:524][  0]LogMemory: Physical Memory: 8291.75 MB used,  24388.64 MB free, 32680.40 MB total
+[2018.05.30-01.58.52:524][  0]LogMemory: Virtual Memory: 4792.71 MB used,  24388.64 MB free, 134217728.00 MB total
+[2018.05.30-01.58.52:543][  0]LogInit: Using OS detected language (en-US).
+[2018.05.30-01.58.52:543][  0]LogInit: Using OS detected locale (en-US).
+[2018.05.30-01.58.52:546][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.05.30-01.58.52:978][  0]LogStreaming: Display: Took  0.435s to EndInitTextLocalization.
+[2018.05.30-01.58.52:978][  0]LogInit: Setting process to per monitor DPI aware
+[2018.05.30-01.58.53:046][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.05.30-01.58.53:046][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.05.30-01.58.53:258][  0]LogD3D11RHI: D3D11 adapters:
+[2018.05.30-01.58.53:327][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980' (Feature Level 11_0)
+[2018.05.30-01.58.53:327][  0]LogD3D11RHI:       4053/0/16340 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:3, VendorId:0x10de
+[2018.05.30-01.58.53:329][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.05.30-01.58.53:329][  0]LogD3D11RHI:       0/0/16340 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.05.30-01.58.53:329][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.05.30-01.58.53:334][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.05.30-01.58.53:334][  0]LogD3D11RHI:     GPU DeviceId: 0x13c0 (for the marketing name, search the web for "GPU Device Id")
+[2018.05.30-01.58.53:334][  0]LogWindows: EnumDisplayDevices:
+[2018.05.30-01.58.53:334][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980' (P:1 D:1)
+[2018.05.30-01.58.53:334][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2018.05.30-01.58.53:334][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980' (P:0 D:1)
+[2018.05.30-01.58.53:334][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980' (P:0 D:0)
+[2018.05.30-01.58.53:335][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.05.30-01.58.53:335][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980
+[2018.05.30-01.58.53:335][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.05.30-01.58.53:335][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.05.30-01.58.53:335][  0]LogRHI: Texture pool is 2837 MB (70% of 4053 MB)
+[2018.05.30-01.58.53:368][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.30-01.58.53:368][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.05.30-01.58.53:368][  0]LogD3D11RHI: Async texture creation enabled
+[2018.05.30-01.58.53:390][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.05.30-01.58.53:493][  0]LogShaderCompilers: Guid format shader working directory is -18 characters bigger than the processId version (../../../../../../../My Documents/Unreal Projects/Starcall_World/Intermediate/Shaders/WorkingDirectory/10716/).
+[2018.05.30-01.58.53:493][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Angelo/AppData/Local/Temp/UnrealShaderWorkingDir/59F49F91498C5FED9F2E08B4CF329006/'.
+[2018.05.30-01.58.53:804][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.05.30-01.58.53:816][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.05.30-01.58.53:827][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.05.30-01.58.53:838][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.05.30-01.58.53:850][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.05.30-01.58.53:861][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.05.30-01.58.53:872][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.05.30-01.58.53:887][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.05.30-01.58.53:898][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.05.30-01.58.53:908][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.05.30-01.58.53:918][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.05.30-01.58.53:930][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.05.30-01.58.53:940][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.05.30-01.58.53:950][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.05.30-01.58.53:960][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.05.30-01.58.53:984][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.05.30-01.58.53:984][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.05.30-01.58.53:994][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.05.30-01.58.53:995][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.05.30-01.58.54:030][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.05.30-01.58.54:039][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.05.30-01.58.54:049][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.05.30-01.58.54:059][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.05.30-01.58.54:069][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.05.30-01.58.54:079][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.05.30-01.58.54:079][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.05.30-01.58.54:195][  0]LogXGEController: Cleaning working directory: C:/Users/Angelo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.30-01.58.54:195][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.05.30-01.58.54:195][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.05.30-01.58.54:195][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.05.30-01.58.54:850][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.05.30-01.58.54:930][  0]LogDerivedDataCache: Loaded boot cache 0.08s 74MB C:/Users/Angelo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.30-01.58.54:930][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Angelo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.05.30-01.58.54:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../../My Documents/Unreal Projects/Starcall_World/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.05.30-01.58.54:930][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.05.30-01.58.54:930][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../../My Documents/Unreal Projects/Starcall_World/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.05.30-01.58.54:930][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.05.30-01.58.54:946][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.05.30-01.58.54:959][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Angelo/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.05.30-01.58.54:959][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.05.30-01.58.54:959][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.05.30-01.58.54:987][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.05.30-01.58.54:988][  0]LogSlate: Using Freetype 2.6.0
+[2018.05.30-01.58.54:989][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.30-01.58.54:989][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.05.30-01.58.55:146][  0]LogAssetRegistry: FAssetRegistry took 0.0259 seconds to start up
+[2018.05.30-01.58.55:506][  0]LogInit: Selected Device Profile: [Windows]
+[2018.05.30-01.58.55:696][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.05.30-01.58.55:700][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.05.30-01.58.55:700][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.05.30-01.58.55:700][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.05.30-01.58.55:700][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.05.30-01.58.55:700][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.05.30-01.58.55:753][  0]LogNetVersion: Starcall_World , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3448061816)
+[2018.05.30-01.58.56:223][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.066666 seconds
+[2018.05.30-01.58.56:227][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.05.30-01.58.56:227][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.05.30-01.58.56:227][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.05.30-01.58.58:088][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.05.30-01.58.58:119][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.05.30-01.58.58:580][  0]SourceControl: Source control is disabled
+[2018.05.30-01.58.58:580][  0]SourceControl: Source control is disabled
+[2018.05.30-01.58.58:599][  0]SourceControl: Source control is disabled
+[2018.05.30-01.58.58:618][  0]SourceControl: Source control is disabled
+[2018.05.30-01.58.59:264][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.05.30-01.58.59:540][  0]LogOcInput: OculusInput pre-init called
+[2018.05.30-01.58.59:675][  0]LogEngine: Initializing Engine...
+[2018.05.30-01.58.59:676][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.05.30-01.58.59:677][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.30-01.58.59:677][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.30-01.58.59:907][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.05.30-01.58.59:956][  0]LogInit: XAudio2 using 'VX2858Sml (NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.05.30-01.58.59:998][  0]LogInit: FAudioDevice initialized.
+[2018.05.30-01.59.00:101][  0]LogDerivedDataCache: Saved boot cache 0.10s 74MB C:/Users/Angelo/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.05.30-01.59.00:119][  0]LogInit: Texture streaming: Enabled
+[2018.05.30-01.59.00:143][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.05.30-01.59.00:159][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.30-01.59.00:239][  0]LogInit: Transaction tracking system initialized
+[2018.05.30-01.59.00:272][  0]BlueprintLog: New page: Editor Load
+[2018.05.30-01.59.00:357][  0]LocalizationService: Localization service is disabled
+[2018.05.30-01.59.00:486][  0]LogConsoleResponse: Display: 
+[2018.05.30-01.59.00:639][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.05.30-01.59.00:639][  0]LogCook: Display: Mobile HDR setting 1
+[2018.05.30-01.59.00:639][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.05.30-01.59.00:639][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.05.30-01.59.00:639][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.05.30-01.59.01:102][  0]LogFileCache: Scanning file cache for directory 'D:/My Documents/Unreal Projects/Starcall_World/Content/' took 0.01s
+[2018.05.30-01.59.01:102][  0]SourceControl: Source control is disabled
+[2018.05.30-01.59.01:103][  0]Cmd: MAP LOAD FILE="../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.05.30-01.59.01:103][  0]LightingResults: New page: Lighting Build
+[2018.05.30-01.59.01:105][  0]MapCheck: New page: Map Check
+[2018.05.30-01.59.01:105][  0]LightingResults: New page: Lighting Build
+[2018.05.30-01.59.01:150][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018b6aa49b80, Size=64, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.30-01.59.01:160][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018b6aa49b80, Size=64
+[2018.05.30-01.59.01:160][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018b6aa49cc0, Size=64, Default__ThirdPerson_AnimBP_C Function /Engine/Transient.REINST_ThirdPerson_AnimBP_C_0:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.30-01.59.01:167][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018b0e172570, Size=72, Default__ThirdPerson_AnimBP_C Function /Game/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP
+[2018.05.30-01.59.01:200][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018b0e129a80, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.30-01.59.01:205][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018b0e129a80, Size=296
+[2018.05.30-01.59.01:205][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018b0e129a80, Size=296, Default__ThirdPersonCharacter_C Function /Engine/Transient.REINST_ThirdPersonCharacter_C_4:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.30-01.59.01:210][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000018b0e1282c0, Size=296, Default__ThirdPersonCharacter_C Function /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter
+[2018.05.30-01.59.01:443][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [14.899294ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.05.30-01.59.01:490][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2018.05.30-01.59.01:498][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.05.30-01.59.01:508][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018b6aa49cc0, Size=64
+[2018.05.30-01.59.01:508][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018b0e129a80, Size=296
+[2018.05.30-01.59.01:509][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.05.30-01.59.01:563][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 54.08ms to complete.
+[2018.05.30-01.59.01:563][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.461
+[2018.05.30-01.59.01:722][  0]LogCollectionManager: Loaded 0 collections in 0.001624 seconds
+[2018.05.30-01.59.01:793][  0]LogFileCache: Scanning file cache for directory 'D:/My Documents/Unreal Projects/Starcall_World/Saved/Collections/' took 0.01s
+[2018.05.30-01.59.01:793][  0]LogFileCache: Scanning file cache for directory 'D:/My Documents/Unreal Projects/Starcall_World/Content/Developers/Angelo/Collections/' took 0.01s
+[2018.05.30-01.59.01:793][  0]LogFileCache: Scanning file cache for directory 'D:/My Documents/Unreal Projects/Starcall_World/Content/Collections/' took 0.01s
+[2018.05.30-01.59.01:793][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.05.30-01.59.01:801][  0]LogContentBrowser: Native class hierarchy populated in 0.0080 seconds. Added 2452 classes and 558 folders.
+[2018.05.30-01.59.01:810][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2018.05.30-01.59.01:860][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.30-01.59.01:865][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2018.05.30-01.59.01:890][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.05.30-01.59.01:892][  0]LogSlate: Took 0.000234 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.05.30-01.59.01:898][  0]LogSlate: Took 0.000239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.05.30-01.59.01:983][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.05.30-01.59.02:117][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.05.30-01.59.02:117][  0]LogLoad: (Engine Initialization) Total time: 12.39 seconds
+[2018.05.30-01.59.02:117][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.05.30-01.59.02:142][  0]LogAssetRegistry: Asset discovery search completed in 7.0187 seconds
+[2018.05.30-01.59.02:144][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.05.30-01.59.02:144][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2018.05.30-01.59.02:147][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.05.30-01.59.02:177][  0]LogSlate: Took 0.000235 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.30-01.59.04:769][299]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-01.59.06:146][458]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.05.30-01.59.08:878][739]LogSourceControl: Warning: '../../../../../../../My Documents/Unreal Projects/Starcall_World/' is not part of a Git repository
+[2018.05.30-01.59.22:951][330]SourceControl: Error: warning: LF will be replaced by CRLF in .gitignore.
+[2018.05.30-01.59.22:951][330]SourceControl: Error: The file will have its original line endings in your working directory.
+[2018.05.30-01.59.23:840][427]LogSourceControl: commit successful: [master (root-commit) 95e5eac] Initial commit
+[2018.05.30-01.59.23:840][427]SourceControl: [master (root-commit) 95e5eac] Initial commit
+[2018.05.30-01.59.23:840][427]SourceControl:  49 files changed, 130 insertions(+)
+[2018.05.30-01.59.23:840][427]SourceControl:  create mode 100644 .gitignore
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Config/DefaultEditor.ini
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Config/DefaultEditorPerProjectUserSettings.ini
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Config/DefaultEngine.ini
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Config/DefaultGame.ini
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Config/DefaultInput.ini
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Geometry/Meshes/1M_Cube.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Geometry/Meshes/CubeMaterial.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Geometry/Meshes/TemplateFloor.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPersonIdle.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPersonJump_End.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPersonJump_Start.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPersonRun.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPersonWalk.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/ThirdPerson/Meshes/CubeMaterial.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/ThirdPerson/Meshes/RampMaterial.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2018.05.30-01.59.23:841][427]SourceControl:  create mode 100644 Starcall_World.uproject
+[2018.05.30-01.59.32:583][469]LogSlate: Window 'Source Control Login' being destroyed
+[2018.05.30-01.59.41:588][925]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.05.30-02.00.32:198][822]LogSlate: Took 0.000265 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.05.30-02.00.32:217][822]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+[2018.05.30-02.00.32:228][822]LogAnimationCompression: Recompressing (AnimSequence /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End) using current/default (AnimCompress_BitwiseCompressOnly_2) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.05.30-02.00.33:522][822]LogSavePackage: Save=27.71ms
+[2018.05.30-02.00.33:522][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/CubeMaterial7CB5F3F941B43FDC4F98D7905EAAE670.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Geometry/Meshes/CubeMaterial.uasset'
+[2018.05.30-02.00.33:536][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Geometry/Meshes/CubeMaterial.uasset
+[2018.05.30-02.00.33:868][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/CubeMaterial" FILE="../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Geometry/Meshes/CubeMaterial.uasset" SILENT=true
+[2018.05.30-02.00.33:874][822]LogSavePackage: Save=1.51ms
+[2018.05.30-02.00.33:874][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/CubeMaterial3049054741C688704FEBFEB2F4F349D6.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Geometry/Meshes/CubeMaterial.uasset'
+[2018.05.30-02.00.33:878][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Geometry/Meshes/CubeMaterial.uasset
+[2018.05.30-02.00.33:924][822]LogSavePackage: Save=12.97ms
+[2018.05.30-02.00.33:925][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/1M_CubeF07727B648A1B151383A569CA4CE4A8D.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Geometry/Meshes/1M_Cube.uasset'
+[2018.05.30-02.00.33:929][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Geometry/Meshes/1M_Cube.uasset
+[2018.05.30-02.00.34:180][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube" FILE="../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Geometry/Meshes/1M_Cube.uasset" SILENT=true
+[2018.05.30-02.00.34:187][822]LogSavePackage: Save=1.82ms
+[2018.05.30-02.00.34:187][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/1M_CubeFB5439F94B25664A974422904CA738E1.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Geometry/Meshes/1M_Cube.uasset'
+[2018.05.30-02.00.34:191][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Geometry/Meshes/1M_Cube.uasset
+[2018.05.30-02.00.34:226][822]LogSavePackage: Save=11.04ms
+[2018.05.30-02.00.34:226][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/1M_Cube_ChamferB160CB9C4F416E8CDA2E4793DD1664D1.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2018.05.30-02.00.34:232][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2018.05.30-02.00.34:469][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/1M_Cube_Chamfer" FILE="../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset" SILENT=true
+[2018.05.30-02.00.34:475][822]LogSavePackage: Save=1.46ms
+[2018.05.30-02.00.34:475][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/1M_Cube_ChamferB65AF20743FD6F79D02EC790047CA8EE.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset'
+[2018.05.30-02.00.34:478][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Geometry/Meshes/1M_Cube_Chamfer.uasset
+[2018.05.30-02.00.34:509][822]LogSavePackage: Save=9.73ms
+[2018.05.30-02.00.34:509][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/TemplateFloor11D92A0942A877E1A75998AA33B08022.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Geometry/Meshes/TemplateFloor.uasset'
+[2018.05.30-02.00.34:513][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Geometry/Meshes/TemplateFloor.uasset
+[2018.05.30-02.00.34:730][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Meshes/TemplateFloor" FILE="../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Geometry/Meshes/TemplateFloor.uasset" SILENT=true
+[2018.05.30-02.00.34:736][822]LogSavePackage: Save=1.54ms
+[2018.05.30-02.00.34:736][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/TemplateFloor2BD650084B7604D361F8BFAA1B3FD7D0.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Geometry/Meshes/TemplateFloor.uasset'
+[2018.05.30-02.00.34:740][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Geometry/Meshes/TemplateFloor.uasset
+[2018.05.30-02.00.39:099][822]LogMetaData: Removing '/Game/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.05.30-02.00.39:099][822]LogMetaData: Removing '/Game/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_4.Transition.AnimGraphNode_TransitionResult_26' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.05.30-02.00.39:099][822]LogMetaData: Removing '/Game/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_6.Transition.AnimGraphNode_TransitionResult_37' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.05.30-02.00.39:099][822]LogMetaData: Removing '/Game/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_2.Transition.AnimGraphNode_TransitionResult_15' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.05.30-02.00.39:099][822]LogMetaData: Removing '/Game/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP:AnimGraph.AnimGraphNode_StateMachine_1.Default.AnimStateTransitionNode_8.Transition.AnimGraphNode_TransitionResult_48' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.05.30-02.00.39:099][822]LogMetaData: Removing '/Game/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.05.30-02.00.39:099][822]LogMetaData: Removing '/Game/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.05.30-02.00.39:099][822]LogMetaData: Removing '/Game/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.05.30-02.00.39:099][822]LogMetaData: Removing '/Game/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.SKEL_ThirdPerson_AnimBP_C' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.05.30-02.00.39:099][822]LogMetaData: Removing '/Game/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:Speed' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.05.30-02.00.39:099][822]LogMetaData: Removing '/Game/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:IsInAir?' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.05.30-02.00.39:099][822]LogMetaData: Removing '/Game/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:BlueprintUpdateAnimation' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.05.30-02.00.39:099][822]LogMetaData: Removing '/Game/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.ThirdPerson_AnimBP_C:ExecuteUbergraph_ThirdPerson_AnimBP' ref from Metadata '/Game/Mannequin/Animations/ThirdPerson_AnimBP.PackageMetaData'
+[2018.05.30-02.00.39:344][822]LogSavePackage: Save=22.24ms
+[2018.05.30-02.00.39:344][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPerson_IdleRun_2D77441B244B5E52231C85C8BDB1894448.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2018.05.30-02.00.39:349][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+[2018.05.30-02.00.39:645][822]LogSavePackage: Save=1.73ms
+[2018.05.30-02.00.39:645][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPerson_IdleRun_2D3D9397514F2EE42C6728A890E5B71EC3.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset'
+[2018.05.30-02.00.39:649][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPerson_IdleRun_2D.uasset
+[2018.05.30-02.00.39:735][822]LogSavePackage: Save=26.58ms
+[2018.05.30-02.00.39:735][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonWalk2577EA6F4538B4FDF2E39597D691FA63.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2018.05.30-02.00.39:739][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPersonWalk.uasset
+[2018.05.30-02.00.40:115][822]LogSavePackage: Save=3.22ms
+[2018.05.30-02.00.40:115][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonWalk5D1028B74C4FC4165182C29A7E26165D.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2018.05.30-02.00.40:120][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPersonWalk.uasset
+[2018.05.30-02.00.40:204][822]LogSavePackage: Save=30.55ms
+[2018.05.30-02.00.40:204][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonRun4697A155451FD9F76F07A4A0523229F7.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPersonRun.uasset'
+[2018.05.30-02.00.40:212][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPersonRun.uasset
+[2018.05.30-02.00.40:514][822]LogSavePackage: Save=1.54ms
+[2018.05.30-02.00.40:514][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonRun7D778B8841BB3F2AA59B3EA642FC9274.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPersonRun.uasset'
+[2018.05.30-02.00.40:517][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPersonRun.uasset
+[2018.05.30-02.00.40:564][822]LogSavePackage: Save=11.80ms
+[2018.05.30-02.00.40:564][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonIdle70F789AA46FEE918EF6CB38BACC86A24.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPersonIdle.uasset'
+[2018.05.30-02.00.40:568][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPersonIdle.uasset
+[2018.05.30-02.00.40:804][822]LogSavePackage: Save=1.56ms
+[2018.05.30-02.00.40:804][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonIdleF200873B447A602C77E343AFF93C91DE.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPersonIdle.uasset'
+[2018.05.30-02.00.40:808][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPersonIdle.uasset
+[2018.05.30-02.00.40:872][822]LogSavePackage: Save=26.28ms
+[2018.05.30-02.00.40:872][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonJump_Start239201C64078FB3270CC79997CBCE009.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPersonJump_Start.uasset'
+[2018.05.30-02.00.40:877][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPersonJump_Start.uasset
+[2018.05.30-02.00.41:175][822]LogSavePackage: Save=1.56ms
+[2018.05.30-02.00.41:175][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonJump_StartD01B8472481BE84C5F65E58D8C1DB375.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset'
+[2018.05.30-02.00.41:180][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPersonJump_Start.uasset
+[2018.05.30-02.00.41:229][822]LogSavePackage: Save=11.68ms
+[2018.05.30-02.00.41:229][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonJump_Loop7C5CFC0E4E5E6BD132BBF6BE95165393.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2018.05.30-02.00.41:233][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+[2018.05.30-02.00.41:537][822]LogSavePackage: Save=2.06ms
+[2018.05.30-02.00.41:537][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonJump_Loop9AB0A00D4347EBC6542CB4A61B4A3CF5.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2018.05.30-02.00.41:542][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+[2018.05.30-02.00.41:617][822]LogSavePackage: Save=28.94ms
+[2018.05.30-02.00.41:617][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPerson_Jump5D51A23E40DC5F0C4CB68BA4B1313E50.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2018.05.30-02.00.41:623][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2018.05.30-02.00.41:939][822]LogSavePackage: Save=1.52ms
+[2018.05.30-02.00.41:939][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPerson_Jump66B1E1D94F5FD4447C9E47A69D3CBD87.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPerson_Jump.uasset'
+[2018.05.30-02.00.41:943][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPerson_Jump.uasset
+[2018.05.30-02.00.41:950][822]LogSavePackage: Save=2.49ms
+[2018.05.30-02.00.41:950][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/UE4_Mannequin_Skeleton556CDDC4420B623D97C43085C9342D5A.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.05.30-02.00.41:954][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2018.05.30-02.00.42:175][822]LogSavePackage: Save=1.53ms
+[2018.05.30-02.00.42:175][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/UE4_Mannequin_SkeletonBEE4E99249023CFCC8CF4AB31AC9535F.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset'
+[2018.05.30-02.00.42:179][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Mesh/UE4_Mannequin_Skeleton.uasset
+[2018.05.30-02.00.42:362][822]LogSavePackage: Save=118.35ms
+[2018.05.30-02.00.42:363][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPerson_AnimBP646DA3EA4255888239164DA3939AFF24.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2018.05.30-02.00.42:370][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2018.05.30-02.00.42:707][822]LogSavePackage: Save=2.11ms
+[2018.05.30-02.00.42:707][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPerson_AnimBPBDDB4DE24DE6954F6B94FEA0165D3BB6.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset'
+[2018.05.30-02.00.42:712][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPerson_AnimBP.uasset
+[2018.05.30-02.00.42:751][822]LogSavePackage: Save=20.94ms
+[2018.05.30-02.00.42:751][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/T_ML_Rubber_Blue_01_D27BE567A4BC223D468AF9682EEBD86E7.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2018.05.30-02.00.42:755][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2018.05.30-02.00.43:061][822]LogSavePackage: Save=1.59ms
+[2018.05.30-02.00.43:061][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/T_ML_Rubber_Blue_01_D080ED17D40D8A1CBF00AF980B76B501C.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset'
+[2018.05.30-02.00.43:065][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_D.uasset
+[2018.05.30-02.00.43:092][822]LogSavePackage: Save=9.54ms
+[2018.05.30-02.00.43:092][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/T_ML_Rubber_Blue_01_ND96D2B714E1F1851CAA511BBE23778BB.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2018.05.30-02.00.43:096][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2018.05.30-02.00.43:327][822]LogSavePackage: Save=1.53ms
+[2018.05.30-02.00.43:328][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/T_ML_Rubber_Blue_01_NF1F8F72A4A2325407174B99F73A0D79F.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset'
+[2018.05.30-02.00.43:332][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Rubber_Blue_01_N.uasset
+[2018.05.30-02.00.43:344][822]LogMaterial: Missing cached shader map for material Material_0, compiling. 
+[2018.05.30-02.00.43:595][822]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.05.30-02.00.43:595][822]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.05.30-02.00.43:595][822]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.05.30-02.00.43:595][822]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.05.30-02.00.43:595][822]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.05.30-02.00.43:691][822]LogSavePackage: Save=26.75ms
+[2018.05.30-02.00.43:691][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ML_GlossyBlack_Latex_UE476EF2FE248882BA218EFADBC5D72B045.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2018.05.30-02.00.43:698][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2018.05.30-02.00.44:018][822]LogSavePackage: Save=6.58ms
+[2018.05.30-02.00.44:018][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ML_GlossyBlack_Latex_UE41A879CF74209DB2A9C85088870A046ED.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset'
+[2018.05.30-02.00.44:022][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/ML_GlossyBlack_Latex_UE4.uasset
+[2018.05.30-02.00.44:030][822]LogMaterial: Missing cached shader map for material Material_1, compiling. 
+[2018.05.30-02.00.44:044][822]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.05.30-02.00.44:044][822]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.05.30-02.00.44:044][822]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.05.30-02.00.44:085][822]LogSavePackage: Save=11.32ms
+[2018.05.30-02.00.44:085][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ML_Plastic_Shiny_BeigeA93B335C47CEA229EA5AFBA795D8C93B.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2018.05.30-02.00.44:090][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2018.05.30-02.00.44:326][822]LogSavePackage: Save=8.02ms
+[2018.05.30-02.00.44:326][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ML_Plastic_Shiny_Beige023E0C9E49F43E6076B5E7B124AF3D05.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset'
+[2018.05.30-02.00.44:330][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige.uasset
+[2018.05.30-02.00.44:359][822]LogSavePackage: Save=8.42ms
+[2018.05.30-02.00.44:359][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/UE4_LOGO_CARD681A791F43A4F002A9E2E19B0D66AA4B.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset'
+[2018.05.30-02.00.44:363][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset
+[2018.05.30-02.00.44:587][822]LogSavePackage: Save=2.09ms
+[2018.05.30-02.00.44:587][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/UE4_LOGO_CARD201CF4F2487C8023C3BB5782642EEBBF.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset'
+[2018.05.30-02.00.44:593][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Textures/UE4_LOGO_CARD.uasset
+[2018.05.30-02.00.44:604][822]LogMaterial: Missing cached shader map for material Material_2, compiling. 
+[2018.05.30-02.00.44:654][822]LogSavePackage: Save=9.23ms
+[2018.05.30-02.00.44:654][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ML_Plastic_Shiny_Beige_LOGOF9338B984759FEFC04F9FA860D661858.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2018.05.30-02.00.44:657][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2018.05.30-02.00.44:865][822]LogSavePackage: Save=1.36ms
+[2018.05.30-02.00.44:865][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ML_Plastic_Shiny_Beige_LOGOF13E86E643BEF932A8C97A846A976BE2.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset'
+[2018.05.30-02.00.44:868][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/ML_Plastic_Shiny_Beige_LOGO.uasset
+[2018.05.30-02.00.44:893][822]LogSavePackage: Save=12.29ms
+[2018.05.30-02.00.44:894][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/T_ML_Aluminum01E457D15D4774F82B241CBA8BDFD90DD7.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2018.05.30-02.00.44:897][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2018.05.30-02.00.45:169][822]LogSavePackage: Save=1.26ms
+[2018.05.30-02.00.45:169][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/T_ML_Aluminum01E254CF294A14CBE1D78A32A4B424F4C3.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset'
+[2018.05.30-02.00.45:172][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01.uasset
+[2018.05.30-02.00.45:191][822]LogSavePackage: Save=7.63ms
+[2018.05.30-02.00.45:191][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/T_ML_Aluminum01_N6C30ECDF4FD3447F47F645A0C39F87B8.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2018.05.30-02.00.45:194][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2018.05.30-02.00.45:466][822]LogSavePackage: Save=14.85ms
+[2018.05.30-02.00.45:467][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/T_ML_Aluminum01_NFD882C384495731D3E4712B13A7B9A58.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset'
+[2018.05.30-02.00.45:470][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/T_ML_Aluminum01_N.uasset
+[2018.05.30-02.00.45:478][822]LogMaterial: Missing cached shader map for material Material_3, compiling. 
+[2018.05.30-02.00.45:528][822]LogSavePackage: Save=12.30ms
+[2018.05.30-02.00.45:528][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ML_SoftMetal_UE421803168430302CBD229EC9F29F4F6E7.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2018.05.30-02.00.45:531][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2018.05.30-02.00.45:760][822]LogSavePackage: Save=14.19ms
+[2018.05.30-02.00.45:760][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ML_SoftMetal_UE4E772EE5641F22DEF18992E9A90AB9FA0.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset'
+[2018.05.30-02.00.45:765][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/MaterialLayers/ML_SoftMetal_UE4.uasset
+[2018.05.30-02.00.45:835][822]LogSavePackage: Save=57.13ms
+[2018.05.30-02.00.45:835][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/UE4_Mannequin__normals894564C64958449AA3C8C1BDD35F8E10.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset'
+[2018.05.30-02.00.45:839][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset
+[2018.05.30-02.00.46:455][822]LogSavePackage: Save=2.54ms
+[2018.05.30-02.00.46:455][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/UE4_Mannequin__normals04C0C60542ADC6A3B689A49CC09A42D3.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset'
+[2018.05.30-02.00.46:461][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Textures/UE4_Mannequin__normals.uasset
+[2018.05.30-02.00.46:498][822]LogSavePackage: Save=16.80ms
+[2018.05.30-02.00.46:498][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/UE4_Mannequin_MAT_MASKADDC783F04FCBA66543D68EB7DC5010CA.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2018.05.30-02.00.46:502][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2018.05.30-02.00.46:694][822]LogShaderCompilers: Display: Shaders left to compile 102
+[2018.05.30-02.00.46:785][822]LogSavePackage: Save=1.96ms
+[2018.05.30-02.00.46:785][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/UE4_Mannequin_MAT_MASKA51FD02FE4EED36A18C9C5FB0B48AEB3D.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset'
+[2018.05.30-02.00.46:789][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Textures/UE4_Mannequin_MAT_MASKA.uasset
+[2018.05.30-02.00.46:854][822]LogSavePackage: Save=21.85ms
+[2018.05.30-02.00.46:854][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/M_UE4Man_BodyD2B2EE9D4BB740B09C4A868AF01BB89B.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/M_UE4Man_Body.uasset'
+[2018.05.30-02.00.46:860][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/M_UE4Man_Body.uasset
+[2018.05.30-02.00.47:117][822]LogSavePackage: Save=1.58ms
+[2018.05.30-02.00.47:117][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/M_UE4Man_BodyCC1139BB4EE18562E6D9F58C1BDE30D2.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset'
+[2018.05.30-02.00.47:122][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/M_UE4Man_Body.uasset
+[2018.05.30-02.00.47:149][822]LogSavePackage: Save=12.19ms
+[2018.05.30-02.00.47:150][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/UE4Man_Logo_N75E35AA143C6D9F0315FF986007B9D48.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Textures/UE4Man_Logo_N.uasset'
+[2018.05.30-02.00.47:154][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Textures/UE4Man_Logo_N.uasset
+[2018.05.30-02.00.47:201][822]LogShaderCompilers: Display: Shaders left to compile 92
+[2018.05.30-02.00.47:223][822]LogShaderCompilers: Display: Shaders left to compile 82
+[2018.05.30-02.00.47:300][822]LogShaderCompilers: Display: Shaders left to compile 72
+[2018.05.30-02.00.47:311][822]LogShaderCompilers: Display: Shaders left to compile 62
+[2018.05.30-02.00.47:399][822]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.05.30-02.00.47:415][822]LogSavePackage: Save=2.27ms
+[2018.05.30-02.00.47:415][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/UE4Man_Logo_NACEF754445E1E607B39878A9990E6C5D.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset'
+[2018.05.30-02.00.47:420][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Textures/UE4Man_Logo_N.uasset
+[2018.05.30-02.00.47:442][822]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.05.30-02.00.47:469][822]LogSavePackage: Save=12.76ms
+[2018.05.30-02.00.47:469][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/M_UE4Man_ChestLogoBC49325A4E138C17AE71C5B33B796D15.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset'
+[2018.05.30-02.00.47:474][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset
+[2018.05.30-02.00.47:775][822]LogSavePackage: Save=1.81ms
+[2018.05.30-02.00.47:776][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/M_UE4Man_ChestLogoB0B19D3B4F6C70837F95C2ABB0248452.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset'
+[2018.05.30-02.00.47:781][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Materials/M_UE4Man_ChestLogo.uasset
+[2018.05.30-02.00.47:858][822]LogSavePackage: Save=23.34ms
+[2018.05.30-02.00.47:858][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/SK_Mannequin_PhysicsAssetD1415720450E1F78265357AE2F373800.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2018.05.30-02.00.47:863][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2018.05.30-02.00.48:131][822]LogSavePackage: Save=2.28ms
+[2018.05.30-02.00.48:131][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/SK_Mannequin_PhysicsAsset6CA3DAA0466A927240524792ABD6B068.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset'
+[2018.05.30-02.00.48:136][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Mesh/SK_Mannequin_PhysicsAsset.uasset
+[2018.05.30-02.00.48:241][822]LogSavePackage: Save=54.68ms
+[2018.05.30-02.00.48:241][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/SK_Mannequin1FCA3E3C4D1CFC0F5AC6F6BA14991C8A.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2018.05.30-02.00.48:246][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Character/Mesh/SK_Mannequin.uasset
+[2018.05.30-02.00.48:338][822]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.05.30-02.00.48:426][822]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.05.30-02.00.48:640][822]LogSavePackage: Save=2.26ms
+[2018.05.30-02.00.48:641][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/SK_Mannequin7A163067458059692BCD568FA62F4AFC.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset'
+[2018.05.30-02.00.48:646][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Character/Mesh/SK_Mannequin.uasset
+[2018.05.30-02.00.48:719][822]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.05.30-02.00.48:719][822]LogSavePackage: Save=13.51ms
+[2018.05.30-02.00.48:719][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonJump_End25C628C849C3DB896FFA8498FF610434.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPersonJump_End.uasset'
+[2018.05.30-02.00.48:724][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/Mannequin/Animations/ThirdPersonJump_End.uasset
+[2018.05.30-02.00.48:891][822]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.05.30-02.00.49:039][822]LogSavePackage: Save=2.43ms
+[2018.05.30-02.00.49:039][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonJump_EndFB2BEF4B408BCBA34A308F8C75CBEA04.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPersonJump_End.uasset'
+[2018.05.30-02.00.49:046][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/Mannequin/Animations/ThirdPersonJump_End.uasset
+[2018.05.30-02.00.58:622][822]LogSavePackage: Save=29.22ms
+[2018.05.30-02.00.58:622][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/RampMaterial7A3D3FFC400AB9BF1D6FE382A81697CC.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPerson/Meshes/RampMaterial.uasset'
+[2018.05.30-02.00.58:630][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPerson/Meshes/RampMaterial.uasset
+[2018.05.30-02.00.58:985][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Meshes/RampMaterial" FILE="../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPerson/Meshes/RampMaterial.uasset" SILENT=true
+[2018.05.30-02.00.58:998][822]LogSavePackage: Save=3.24ms
+[2018.05.30-02.00.58:999][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/RampMaterialF1644CCE46F6BC5B91242F983B6F2987.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPerson/Meshes/RampMaterial.uasset'
+[2018.05.30-02.00.59:007][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPerson/Meshes/RampMaterial.uasset
+[2018.05.30-02.00.59:071][822]LogSavePackage: Save=22.00ms
+[2018.05.30-02.00.59:071][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/Bump_StaticMesh347185EC4B9051ED532099B272FE2DAA.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPerson/Meshes/Bump_StaticMesh.uasset'
+[2018.05.30-02.00.59:080][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPerson/Meshes/Bump_StaticMesh.uasset
+[2018.05.30-02.00.59:482][822]LogSavePackage: Save=2.68ms
+[2018.05.30-02.00.59:482][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/Bump_StaticMesh7DB562C14766C24DEAC52CA40E951669.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset'
+[2018.05.30-02.00.59:490][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPerson/Meshes/Bump_StaticMesh.uasset
+[2018.05.30-02.00.59:553][822]LogSavePackage: Save=17.34ms
+[2018.05.30-02.00.59:553][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/LeftArm_StaticMeshD807ABA84F90B1884C49369EEB51EE24.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset'
+[2018.05.30-02.00.59:560][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset
+[2018.05.30-02.00.59:951][822]LogSavePackage: Save=3.30ms
+[2018.05.30-02.00.59:951][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/LeftArm_StaticMesh7CD1F10B43337858DC165191BFB0B6A2.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset'
+[2018.05.30-02.00.59:957][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPerson/Meshes/LeftArm_StaticMesh.uasset
+[2018.05.30-02.01.00:031][822]LogSavePackage: Save=27.12ms
+[2018.05.30-02.01.00:031][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/Linear_Stair_StaticMesh57584F6D4F0D51DC95FF1AAD3DA720EE.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset'
+[2018.05.30-02.01.00:040][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset
+[2018.05.30-02.01.00:465][822]LogSavePackage: Save=3.10ms
+[2018.05.30-02.01.00:465][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/Linear_Stair_StaticMesh159B23CF44F5BF2DC9CDF9B6C7D4AA72.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset'
+[2018.05.30-02.01.00:471][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPerson/Meshes/Linear_Stair_StaticMesh.uasset
+[2018.05.30-02.01.00:533][822]LogSavePackage: Save=15.57ms
+[2018.05.30-02.01.00:533][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/Ramp_StaticMesh92404D2E46D9EFEBE9683BBD737A77D4.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPerson/Meshes/Ramp_StaticMesh.uasset'
+[2018.05.30-02.01.00:539][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPerson/Meshes/Ramp_StaticMesh.uasset
+[2018.05.30-02.01.00:897][822]LogSavePackage: Save=3.31ms
+[2018.05.30-02.01.00:897][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/Ramp_StaticMesh1457286142D68C1FE1C20D86D10A59EA.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset'
+[2018.05.30-02.01.00:905][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPerson/Meshes/Ramp_StaticMesh.uasset
+[2018.05.30-02.01.00:975][822]LogSavePackage: Save=22.37ms
+[2018.05.30-02.01.00:975][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/RightArm_StaticMeshA8FAD4324D357A3A930C2192640E2180.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPerson/Meshes/RightArm_StaticMesh.uasset'
+[2018.05.30-02.01.00:982][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPerson/Meshes/RightArm_StaticMesh.uasset
+[2018.05.30-02.01.01:425][822]LogSavePackage: Save=9.35ms
+[2018.05.30-02.01.01:425][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/RightArm_StaticMesh498208594A4477ED4B39D7BEF1B9E6CD.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset'
+[2018.05.30-02.01.01:431][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPerson/Meshes/RightArm_StaticMesh.uasset
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:CameraBoom' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:FollowCamera' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.SKEL_ThirdPersonCharacter_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BaseLookUpRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:BaseTurnRate' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:CameraBoom' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:FollowCamera' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:ExecuteUbergraph_ThirdPersonCharacter' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpAxisEvt_LookUpRate_K2Node_InputAxisEvent_53' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpAxisEvt_TurnRate_K2Node_InputAxisEvent_38' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpAxisEvt_LookUp_K2Node_InputAxisEvent_40' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpAxisEvt_Turn_K2Node_InputAxisEvent_47' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpAxisEvt_MoveRight_K2Node_InputAxisEvent_90' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:369][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpAxisEvt_MoveForward_K2Node_InputAxisEvent_79' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:370][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpTchEvt_Pressed' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.06:370][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter_C:InpTchEvt_Released' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.PackageMetaData'
+[2018.05.30-02.01.07:592][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2018.05.30-02.01.07:592][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Maps/ThirdPersonExampleMap.SKEL_ThirdPersonExampleMap_C' ref from Metadata '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.PackageMetaData'
+[2018.05.30-02.01.07:601][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C' ref from Metadata '/Game/ThirdPersonBP/ThirdPersonOverview.PackageMetaData'
+[2018.05.30-02.01.07:601][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/ThirdPersonOverview.SKEL_ThirdPersonOverview_C' ref from Metadata '/Game/ThirdPersonBP/ThirdPersonOverview.PackageMetaData'
+[2018.05.30-02.01.07:607][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2018.05.30-02.01.07:607][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2018.05.30-02.01.07:607][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C:UserConstructionScript' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2018.05.30-02.01.07:607][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonGameMode.SKEL_ThirdPersonGameMode_C' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2018.05.30-02.01.07:607][822]LogMetaData: Removing '/Game/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode_C:DefaultSceneRoot' ref from Metadata '/Game/ThirdPersonBP/Blueprints/ThirdPersonGameMode.PackageMetaData'
+[2018.05.30-02.01.07:746][822]LogSavePackage: Save=77.40ms
+[2018.05.30-02.01.07:746][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonCharacterAFAE1C64454E6E6DF0C34E954BD40B5F.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.05.30-02.01.07:755][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.05.30-02.01.08:249][822]LogSavePackage: Save=3.82ms
+[2018.05.30-02.01.08:249][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonCharacterF3DDF14C4E27BCA05191D488EFECF950.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2018.05.30-02.01.08:255][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset
+[2018.05.30-02.01.08:273][822]LogSavePackage: Save=2.05ms
+[2018.05.30-02.01.08:273][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonExampleMap_BuiltDataA63F063543062B876DEE4CB160B0045A.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2018.05.30-02.01.08:279][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset
+[2018.05.30-02.01.08:648][822]LogSavePackage: Save=242.03ms
+[2018.05.30-02.01.08:648][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonExampleMap34B2E24B425310ABC93CEB9E76008332.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.30-02.01.08:652][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.30-02.01.09:650][822]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 1.368
+[2018.05.30-02.01.09:683][822]LogSavePackage: Save=2.61ms
+[2018.05.30-02.01.09:683][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonExampleMap1BEC0FA0447E6AD0172CAF9377E446F9.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2018.05.30-02.01.09:689][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap
+[2018.05.30-02.01.09:703][822]LogSavePackage: Save=7.96ms
+[2018.05.30-02.01.09:704][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonOverviewF1192E3744D2C5E9DE57D7864569D9CC.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPersonBP/ThirdPersonOverview.uasset'
+[2018.05.30-02.01.09:708][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPersonBP/ThirdPersonOverview.uasset
+[2018.05.30-02.01.10:070][822]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/ThirdPersonOverview" FILE="../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPersonBP/ThirdPersonOverview.uasset" SILENT=true
+[2018.05.30-02.01.10:086][822]LogSavePackage: Save=3.86ms
+[2018.05.30-02.01.10:086][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonOverview6A4E11C9459F8CC0C00374BFB5F9F4B3.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPersonBP/ThirdPersonOverview.uasset'
+[2018.05.30-02.01.10:093][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPersonBP/ThirdPersonOverview.uasset
+[2018.05.30-02.01.10:112][822]LogSavePackage: Save=10.26ms
+[2018.05.30-02.01.10:112][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonGameMode8025FD7547B8ECCBCD0AD5B798794909.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.05.30-02.01.10:122][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ExampleWorld/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.05.30-02.01.10:430][822]LogSavePackage: Save=2.95ms
+[2018.05.30-02.01.10:430][822]LogSavePackage: Moving '../../../../../../../My Documents/Unreal Projects/Starcall_World/Saved/ThirdPersonGameMode4DE0022C4B5F5EDCB947CAA6A68577F7.tmp' to '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2018.05.30-02.01.10:437][822]LogSavePackage: Display: Finished SavePackage ../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset
+[2018.05.30-02.01.10:440][822]EditorErrors: New page: Save Output
+[2018.05.30-02.01.10:440][822]EditorErrors: Warning: Missing filename
+[2018.05.30-02.01.12:435][824]LogAssetRegistry: Warning: D:\My Documents\Unreal Projects\Starcall_World\Content\ExampleWorld\ThirdPersonBP\Maps\ThirdPersonExampleMap.umap: Package has invalid export /Game/ExampleWorld/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData, resave source package!
+[2018.05.30-02.01.12:755][824]SourceControl: Error: fatal: Invalid path '/Game': No such file or directory
+[2018.05.30-02.01.13:421][826]SourceControl: Error: fatal: Invalid path '/Game': No such file or directory
+[2018.05.30-02.01.18:768][ 68]LogSlate: Window 'Message Log' being destroyed
+[2018.05.30-02.01.18:771][ 68]LogSlate: Window 'Message Log' being destroyed
+[2018.05.30-02.02.12:321][705]LogSlate: Window 'Save Content' being destroyed
+[2018.05.30-02.02.12:367][705]LogSlate: Window 'Starcall_World - Unreal Editor' being destroyed
+[2018.05.30-02.02.12:590][706]Cmd: QUIT_EDITOR
+[2018.05.30-02.02.12:632][706]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.05.30-02.02.12:657][706]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.05.30-02.02.12:658][706]LogExit: Preparing to exit.
+[2018.05.30-02.02.13:295][706]LogDirectoryWatcher: A directory notification for 'D:/My Documents/Unreal Projects/Starcall_World/Content/' was aborted.
+[2018.05.30-02.02.13:320][706]LogExit: Editor shut down
+[2018.05.30-02.02.13:325][706]LogExit: Transaction tracking system shut down
+[2018.05.30-02.02.13:326][706]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018b0e172570, Size=72
+[2018.05.30-02.02.13:327][706]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000018b0e1282c0, Size=296
+[2018.05.30-02.02.13:411][706]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.05.30-02.02.13:411][706]LogDirectoryWatcher: A directory notification for '../../../../../../../My Documents/Unreal Projects/Starcall_World/Content/' was aborted.
+[2018.05.30-02.02.13:411][706]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.05.30-02.02.13:411][706]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.05.30-02.02.13:412][706]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.05.30-02.02.13:412][706]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.05.30-02.02.13:412][706]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2018.05.30-02.02.13:412][706]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2018.05.30-02.02.13:583][706]LogExit: Object subsystem successfully closed.
+[2018.05.30-02.02.13:614][706]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.05.30-02.02.13:624][706]LogD3D11RHI: Shutdown
+[2018.05.30-02.02.13:624][706]LogD3D11RHI: CleanupD3DDevice
+[2018.05.30-02.02.13:648][706]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.05.30-02.02.13:672][706]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (576)
+[2018.05.30-02.02.13:672][706]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (574)
+[2018.05.30-02.02.13:672][706]LogModuleManager: Shutting down and abandoning module SceneOutliner (572)
+[2018.05.30-02.02.13:672][706]LogModuleManager: Shutting down and abandoning module AddContentDialog (570)
+[2018.05.30-02.02.13:673][706]LogDirectoryWatcher: A directory notification for 'D:/Games/Epic Games/Unreal Engine Versions/UE_4.19/FeaturePacks/' was aborted.
+[2018.05.30-02.02.13:678][706]LogModuleManager: Shutting down and abandoning module WidgetCarousel (569)
+[2018.05.30-02.02.13:678][706]LogModuleManager: Shutting down and abandoning module EditorWidgets (566)
+[2018.05.30-02.02.13:678][706]LogModuleManager: Shutting down and abandoning module CollectionManager (564)
+[2018.05.30-02.02.13:678][706]LogDirectoryWatcher: A directory notification for 'D:/My Documents/Unreal Projects/Starcall_World/Content/Collections/' was aborted.
+[2018.05.30-02.02.13:679][706]LogDirectoryWatcher: A directory notification for 'D:/My Documents/Unreal Projects/Starcall_World/Content/Developers/Angelo/Collections/' was aborted.
+[2018.05.30-02.02.13:679][706]LogDirectoryWatcher: A directory notification for 'D:/My Documents/Unreal Projects/Starcall_World/Saved/Collections/' was aborted.
+[2018.05.30-02.02.13:679][706]LogModuleManager: Shutting down and abandoning module StatsViewer (562)
+[2018.05.30-02.02.13:679][706]LogModuleManager: Shutting down and abandoning module FoliageEdit (560)
+[2018.05.30-02.02.13:679][706]LogModuleManager: Shutting down and abandoning module LandscapeEditor (558)
+[2018.05.30-02.02.13:679][706]LogModuleManager: Shutting down and abandoning module MeshPaintMode (556)
+[2018.05.30-02.02.13:679][706]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (554)
+[2018.05.30-02.02.13:679][706]LogModuleManager: Shutting down and abandoning module ActorPickerMode (552)
+[2018.05.30-02.02.13:679][706]LogModuleManager: Shutting down and abandoning module GeometryMode (550)
+[2018.05.30-02.02.13:679][706]LogModuleManager: Shutting down and abandoning module TextureAlignMode (548)
+[2018.05.30-02.02.13:680][706]LogModuleManager: Shutting down and abandoning module BspMode (546)
+[2018.05.30-02.02.13:680][706]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (544)
+[2018.05.30-02.02.13:680][706]LogModuleManager: Shutting down and abandoning module HardwareSurvey (542)
+[2018.05.30-02.02.13:680][706]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (540)
+[2018.05.30-02.02.13:680][706]LogModuleManager: Shutting down and abandoning module AutomationWorker (538)
+[2018.05.30-02.02.13:680][706]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (536)
+[2018.05.30-02.02.13:680][706]LogModuleManager: Shutting down and abandoning module SequenceRecorder (535)
+[2018.05.30-02.02.13:680][706]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (532)
+[2018.05.30-02.02.13:680][706]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (530)
+[2018.05.30-02.02.13:680][706]LogModuleManager: Shutting down and abandoning module PlacementMode (529)
+[2018.05.30-02.02.13:680][706]LogModuleManager: Shutting down and abandoning module MaterialEditor (528)
+[2018.05.30-02.02.13:680][706]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (524)
+[2018.05.30-02.02.13:680][706]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (522)
+[2018.05.30-02.02.13:680][706]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (520)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (518)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (516)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (514)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (512)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (510)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (508)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (506)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module CharacterAI (504)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module SmartSnapping (502)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module SessionServices (500)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module ViewportSnapping (498)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module ViewportInteraction (496)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module ClothPainter (494)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (493)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module LogVisualizer (490)
+[2018.05.30-02.02.13:681][706]LogModuleManager: Shutting down and abandoning module IntroTutorials (488)
+[2018.05.30-02.02.13:682][706]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (487)
+[2018.05.30-02.02.13:682][706]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (484)
+[2018.05.30-02.02.13:682][706]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (482)
+[2018.05.30-02.02.13:682][706]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (480)
+[2018.05.30-02.02.13:682][706]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (479)
+[2018.05.30-02.02.14:582][706]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (476)
+[2018.05.30-02.02.14:582][706]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (474)
+[2018.05.30-02.02.14:582][706]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (472)
+[2018.05.30-02.02.14:582][706]LogModuleManager: Shutting down and abandoning module InputBindingEditor (470)
+[2018.05.30-02.02.14:582][706]LogModuleManager: Shutting down and abandoning module MergeActors (468)
+[2018.05.30-02.02.14:582][706]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (466)
+[2018.05.30-02.02.14:582][706]LogModuleManager: Shutting down and abandoning module LocalizationService (465)
+[2018.05.30-02.02.14:582][706]LogModuleManager: Shutting down and abandoning module HardwareTargeting (462)
+[2018.05.30-02.02.14:582][706]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (460)
+[2018.05.30-02.02.14:583][706]LogModuleManager: Shutting down and abandoning module UndoHistory (458)
+[2018.05.30-02.02.14:583][706]LogModuleManager: Shutting down and abandoning module XmlParser (456)
+[2018.05.30-02.02.14:583][706]LogModuleManager: Shutting down and abandoning module Blutility (454)
+[2018.05.30-02.02.14:583][706]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (452)
+[2018.05.30-02.02.14:583][706]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (451)
+[2018.05.30-02.02.14:583][706]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (448)
+[2018.05.30-02.02.14:583][706]LogModuleManager: Shutting down and abandoning module SettingsEditor (446)
+[2018.05.30-02.02.14:583][706]LogModuleManager: Shutting down and abandoning module ProjectLauncher (444)
+[2018.05.30-02.02.14:583][706]LogModuleManager: Shutting down and abandoning module SessionFrontend (442)
+[2018.05.30-02.02.14:583][706]LogModuleManager: Shutting down and abandoning module ProfilerClient (440)
+[2018.05.30-02.02.14:583][706]LogModuleManager: Shutting down and abandoning module DeviceManager (438)
+[2018.05.30-02.02.14:583][706]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (437)
+[2018.05.30-02.02.14:639][706]LogModuleManager: Shutting down and abandoning module AutomationController (434)
+[2018.05.30-02.02.14:639][706]LogModuleManager: Shutting down and abandoning module AutomationWindow (432)
+[2018.05.30-02.02.14:639][706]LogModuleManager: Shutting down and abandoning module Layers (430)
+[2018.05.30-02.02.14:639][706]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (428)
+[2018.05.30-02.02.14:639][706]LogModuleManager: Shutting down and abandoning module DetailCustomizations (426)
+[2018.05.30-02.02.14:639][706]LogModuleManager: Shutting down and abandoning module PackagesDialog (424)
+[2018.05.30-02.02.14:640][706]LogModuleManager: Shutting down and abandoning module Persona (422)
+[2018.05.30-02.02.14:640][706]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (421)
+[2018.05.30-02.02.14:640][706]LogModuleManager: Shutting down and abandoning module AnimGraph (419)
+[2018.05.30-02.02.14:640][706]LogModuleManager: Shutting down and abandoning module Kismet (416)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module GraphEditor (414)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module ClassViewer (412)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module Toolbox (410)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module ModuleUI (408)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module MovieSceneTools (406)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module OutputLog (404)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module GammaUI (402)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module Documentation (400)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (398)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module MovieScene (396)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (394)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module LauncherPlatform (392)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module AnalyticsET (390)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module PortalServices (388)
+[2018.05.30-02.02.14:641][706]LogModuleManager: Shutting down and abandoning module PortalRpc (386)
+[2018.05.30-02.02.14:642][706]LogModuleManager: Shutting down and abandoning module MessagingRpc (384)
+[2018.05.30-02.02.14:642][706]LogModuleManager: Shutting down and abandoning module AIModule (382)
+[2018.05.30-02.02.14:642][706]LogModuleManager: Shutting down and abandoning module GameplayDebugger (381)
+[2018.05.30-02.02.14:642][706]LogModuleManager: Shutting down and abandoning module AITestSuite (379)
+[2018.05.30-02.02.14:642][706]LogModuleManager: Shutting down and abandoning module DesktopPlatform (376)
+[2018.05.30-02.02.14:642][706]LogModuleManager: Shutting down and abandoning module ProfilerService (374)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module TaskGraph (372)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module SteamVRController (370)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (368)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (366)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module OculusInput (364)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (362)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (360)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module CableComponent (358)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module AudioCapture (356)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (354)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module AndroidPermission (352)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (348)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (346)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (344)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module MediaCompositing (342)
+[2018.05.30-02.02.14:685][706]LogModuleManager: Shutting down and abandoning module LinearTimecode (340)
+[2018.05.30-02.02.14:686][706]LogModuleManager: Shutting down and abandoning module ImgMedia (338)
+[2018.05.30-02.02.14:692][706]LogModuleManager: Shutting down and abandoning module HTML5Networking (336)
+[2018.05.30-02.02.14:692][706]LogModuleManager: Shutting down and abandoning module AlembicImporter (334)
+[2018.05.30-02.02.14:692][706]LogModuleManager: Shutting down and abandoning module AlembicLibrary (333)
+[2018.05.30-02.02.14:693][706]LogModuleManager: Shutting down and abandoning module GeometryCache (332)
+[2018.05.30-02.02.14:693][706]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (331)
+[2018.05.30-02.02.14:693][706]LogModuleManager: Shutting down and abandoning module DatasmithContent (326)
+[2018.05.30-02.02.14:693][706]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (324)
+[2018.05.30-02.02.14:693][706]LogModuleManager: Shutting down and abandoning module PluginBrowser (322)
+[2018.05.30-02.02.14:693][706]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (320)
+[2018.05.30-02.02.14:693][706]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (318)
+[2018.05.30-02.02.14:693][706]LogModuleManager: Shutting down and abandoning module CryptoKeys (316)
+[2018.05.30-02.02.14:693][706]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (314)
+[2018.05.30-02.02.14:693][706]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (312)
+[2018.05.30-02.02.14:693][706]LogModuleManager: Shutting down and abandoning module UObjectPlugin (310)
+[2018.05.30-02.02.14:693][706]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (308)
+[2018.05.30-02.02.14:693][706]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (306)
+[2018.05.30-02.02.14:693][706]LogModuleManager: Shutting down and abandoning module GitSourceControl (304)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module SourceControl (303)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (300)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (298)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (296)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (294)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module Paper2DEditor (292)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module MeshPaint (291)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (288)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (286)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module PhysXVehicles (284)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module OculusEditor (282)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.05.30-02.02.14:694][706]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.05.30-02.02.14:795][706]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.05.30-02.02.14:896][706]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.05.30-02.02.14:896][706]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.05.30-02.02.14:896][706]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.05.30-02.02.14:896][706]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.05.30-02.02.14:896][706]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.05.30-02.02.14:896][706]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.05.30-02.02.14:898][706]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.05.30-02.02.14:898][706]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.05.30-02.02.14:898][706]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.05.30-02.02.14:898][706]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.05.30-02.02.14:899][706]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.05.30-02.02.14:901][706]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.05.30-02.02.14:901][706]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.05.30-02.02.14:901][706]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.05.30-02.02.14:901][706]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.05.30-02.02.14:908][706]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.05.30-02.02.14:908][706]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.05.30-02.02.14:908][706]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.05.30-02.02.14:910][706]LogModuleManager: Shutting down and abandoning module Media (233)
+[2018.05.30-02.02.14:916][706]LogModuleManager: Shutting down and abandoning module PacketHandler (230)
+[2018.05.30-02.02.14:916][706]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (228)
+[2018.05.30-02.02.14:917][706]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (226)
+[2018.05.30-02.02.14:917][706]LogModuleManager: Shutting down and abandoning module MediaAssets (224)
+[2018.05.30-02.02.14:917][706]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.05.30-02.02.14:917][706]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.05.30-02.02.14:917][706]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.05.30-02.02.14:917][706]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.05.30-02.02.14:917][706]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.05.30-02.02.14:917][706]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.05.30-02.02.14:917][706]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.05.30-02.02.14:917][706]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.05.30-02.02.14:917][706]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.05.30-02.02.14:917][706]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.05.30-02.02.14:917][706]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.05.30-02.02.14:917][706]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.05.30-02.02.14:918][706]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.05.30-02.02.14:918][706]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.05.30-02.02.14:918][706]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.05.30-02.02.14:918][706]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.05.30-02.02.14:921][706]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.05.30-02.02.14:922][706]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.05.30-02.02.14:924][706]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.05.30-02.02.14:988][706]LogDerivedDataCache: Shutdown
+[2018.05.30-02.02.14:988][706]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.05.30-02.02.14:988][706]LogXGEController: Cleaning working directory: C:/Users/Angelo/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.05.30-02.02.14:988][706]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.05.30-02.02.14:988][706]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.05.30-02.02.14:988][706]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.05.30-02.02.14:988][706]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.05.30-02.02.14:988][706]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.05.30-02.02.14:988][706]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.05.30-02.02.14:988][706]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.05.30-02.02.14:988][706]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.05.30-02.02.14:988][706]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.05.30-02.02.14:988][706]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.05.30-02.02.14:989][706]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.05.30-02.02.14:990][706]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.05.30-02.02.14:991][706]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.05.30-02.02.14:991][706]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.05.30-02.02.14:991][706]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2018.05.30-02.02.14:991][706]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FB01551-4BD7-7F19-95B2-E18936BA236A%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.2-4033788%2B%2B%2BUE4%2BRelease-4.19&UserID=373548084113feae80a59993323236fa%7Cf19535a059244b5e893fc3a0016deb0c%7C6e3b75cc-fe23-4865-a88e-b2f97e3dbc91&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.05.30-02.02.15:016][706]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.05.30-02.02.15:018][706]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.05.30-02.02.15:018][706]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.05.30-02.02.15:018][706]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.05.30-02.02.15:018][706]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.05.30-02.02.15:019][706]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.05.30-02.02.15:019][706]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.05.30-02.02.15:019][706]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.05.30-02.02.15:020][706]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.05.30-02.02.15:021][706]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.05.30-02.02.15:021][706]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.05.30-02.02.15:021][706]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.05.30-02.02.15:021][706]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.05.30-02.02.15:021][706]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.05.30-02.02.15:021][706]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.05.30-02.02.15:021][706]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.05.30-02.02.15:021][706]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.05.30-02.02.15:021][706]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.05.30-02.02.15:021][706]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.05.30-02.02.15:043][706]LogExit: Exiting.
+[2018.05.30-02.02.15:062][706]Log file closed, 05/29/18 22:02:15
